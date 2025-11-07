@@ -8,8 +8,3 @@ Exploratory Data Analysis (EDA) was conducted to better understand the dataset a
 Three machine learning models were built and compared in this project. The first model, Logistic Regression, served as a baseline classifier due to its simplicity and interpretability. It provided insight into which variables most strongly influenced the probability of attrition. The second model, Random Forest Classifier, was implemented as an ensemble method combining multiple decision trees to capture non-linear relationships and reduce overfitting. The third and final model, XGBoost Classifier, used gradient boosting to sequentially improve predictions and achieve higher accuracy and robustness. Each model was trained and fine-tuned using relevant hyperparameters to optimize performance.
 
 
-## 🧭 Project Structure Diagram
-
-<p align="center">
-  <img src="employee_attrition_flowchart.png" alt="Employee Attrition Prediction Flowchart" width="700"/>
-</p>
